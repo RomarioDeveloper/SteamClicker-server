@@ -1,0 +1,1 @@
+::1 - - [28/May/2024:20:20:13 +0000] "POST /auth/authenticate HTTP/1.1" 401 33 "-" "PostmanRuntime/7.39.0"
